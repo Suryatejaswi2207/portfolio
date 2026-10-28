@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "A premium, responsive personal portfolio website with Apple and Stripe-inspired glassmorphic design, dynamic animations, interactive resume, blog, and project filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
